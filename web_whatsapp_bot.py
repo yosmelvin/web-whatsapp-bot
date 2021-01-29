@@ -1,7 +1,3 @@
-#Made by Julián Flores
-#01 avril 2019---CDMX
-#robotfpv
-
 from time import sleep
 from selenium.webdriver.common.by import By
 from selenium import webdriver
